@@ -1,4 +1,4 @@
-# This is a little problem that solves three-body gravity problem!
+# This is a little program that solves three-body gravity problem!
 
 ## Sun, Earth and Moon
 
