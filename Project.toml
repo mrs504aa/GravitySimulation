@@ -1,0 +1,9 @@
+name = "GravitySimulation"
+uuid = "7872adba-40b6-4d14-854c-85f4e1bcea61"
+authors = ["Ruosong Mao <mrs504aa@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
